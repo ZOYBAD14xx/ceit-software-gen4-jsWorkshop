@@ -1,4 +1,3 @@
-//JavaScript by Aj.NesT the Series 
 //Ex14: JavaScript Loops
 //Ex14.1: For Loop
 function roundFor(){
