@@ -1,4 +1,3 @@
-//JavaScript by Aj.NesT the Series 
 //Ex13: JavaScript Conditionals
 //Ex13.1: if statements
 function checkNumber(){
